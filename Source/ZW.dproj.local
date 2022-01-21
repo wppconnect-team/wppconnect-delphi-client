@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/10 15:08:59.000.783,F:\Trunk\SendWhats\Source\View\View.Main.dfm=C:\Users\Diego Melo\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/09/10 15:11:22.000.163,F:\Trunk\SendWhats\Source\SendWhats.dproj=C:\Users\Diego Melo\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2021/09/11 17:45:19.000.863,F:\Trunk\SendWhats\Source\Unit1.pas=F:\Trunk\SendWhats\Source\Util\SendWahts.Util.FileUtil.pas</Transaction>
+    <Transaction>2021/09/11 17:45:44.000.492,F:\Trunk\SendWhats\Source\Util\SendWhats.Utils.Emoctions.pas=F:\Trunk\SendWhats\Source\Util\SendWhats.Util.EmoctionUtil.pas</Transaction>
+    <Transaction>2021/09/11 17:46:01.000.975,F:\Trunk\SendWhats\Source\Util\SendWhats.Util.EmoctionUtil.pas=F:\Trunk\SendWhats\Source\Util\SendWhats.Util.EmoctionUtils.pas</Transaction>
+    <Transaction>2021/09/11 17:47:23.000.640,F:\Trunk\SendWhats\Source\Utils\SendWahts.Utils.FileUtil.pas=F:\Trunk\SendWhats\Source\Utils\SendWahts.Utils._File.pas</Transaction>
+    <Transaction>2021/09/11 17:47:34.000.612,F:\Trunk\SendWhats\Source\Utils\SendWahts.Utils._File.pas=F:\Trunk\SendWhats\Source\Utils\SendWahts.Utils.Files.pas</Transaction>
+    <Transaction>2021/09/11 17:47:49.000.706,F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.EmoctionUtils.pas=F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.Emoctions.pas</Transaction>
+    <Transaction>2021/09/11 17:48:38.000.726,F:\Trunk\SendWhats\Source\Utils\SendWahts.Utils.Files.pas=F:\Trunk\SendWhats\Source\Utils\SendWahts.Utils.File_.pas</Transaction>
+    <Transaction>2021/09/11 17:48:45.000.140,F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.Emoctions.pas=F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.Emoction.pas</Transaction>
+    <Transaction>2021/09/11 17:54:32.000.209,F:\Trunk\SendWhats\Source\Utils\SendWahts.Utils.File_.pas=F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.File_.pas</Transaction>
+    <Transaction>2021/09/13 16:45:09.000.959,F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.Libutils.pas=F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.File_.pas</Transaction>
+    <Transaction>2021/09/14 15:40:04.000.002,F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.Libtils.pas=F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.Libutils.pas</Transaction>
+    <Transaction>2021/09/14 15:40:10.000.351,F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.LibUtils.pas=F:\Trunk\SendWhats\Source\Utils\SendWhats.Utils.Libtils.pas</Transaction>
+    <Transaction>2021/09/16 11:34:21.000.178,F:\Trunk\SpeedyDiversos\SendWhats\Source\Model\SendWhats.Model.ReceivedMessage.pas=F:\Trunk\SpeedyDiversos\SendWhats\Source\Model\SendWhats.Model.Respose.pas</Transaction>
+    <Transaction>2022/01/11 16:23:21.000.018,F:\Trunk\SpeedyDiversos\SendWhats\Source\View\View.SendWhats.dfm=F:\Trunk\SpeedyDiversos\SendWhats\Source\Unit1.dfm</Transaction>
+    <Transaction>2022/01/14 17:28:17.000.015,F:\Trunk\SpeedyDiversos\SendWhats\Source\View\View.InputPhone.dfm=F:\Trunk\SpeedyDiversos\SendWhats\Source\Unit1.dfm</Transaction>
+    <Transaction>2022/01/21 09:32:41.000.913,C:\NoturnoProjects\src\sendWhats\Source\ZW.dproj=C:\NoturnoProjects\src\sendWhats\Source\SendWhats.dproj</Transaction>
+    <Transaction>2022/01/21 09:32:55.000.464,C:\NoturnoProjects\src\sendWhats\Source\Controller\ZW.Controller.SendWhats.pas=C:\NoturnoProjects\src\sendWhats\Source\Controller\SendWhats.Controller.SendWhats.pas</Transaction>
+    <Transaction>2022/01/21 09:33:01.000.500,C:\NoturnoProjects\src\sendWhats\Source\Model\ZW.Model.pas=C:\NoturnoProjects\src\sendWhats\Source\Model\SendWhats.Model.pas</Transaction>
+    <Transaction>2022/01/21 09:33:07.000.878,C:\NoturnoProjects\src\sendWhats\Source\Utils\ZW.Utils.Emoction.pas=C:\NoturnoProjects\src\sendWhats\Source\Utils\SendWhats.Utils.Emoction.pas</Transaction>
+    <Transaction>2022/01/21 09:33:12.000.507,C:\NoturnoProjects\src\sendWhats\Source\Utils\ZW.Utils.LibUtils.pas=C:\NoturnoProjects\src\sendWhats\Source\Utils\SendWhats.Utils.LibUtils.pas</Transaction>
+    <Transaction>2022/01/21 09:33:22.000.859,C:\NoturnoProjects\src\sendWhats\Source\View\View.ZW.dfm=C:\NoturnoProjects\src\sendWhats\Source\View\View.SendWhats.dfm</Transaction>
+    <Transaction>2022/01/21 09:33:22.000.859,C:\NoturnoProjects\src\sendWhats\Source\View\View.ZW.pas=C:\NoturnoProjects\src\sendWhats\Source\View\View.SendWhats.pas</Transaction>
+    <Transaction>2022/01/21 09:35:57.000.195,C:\NoturnoProjects\src\sendWhats\Source\Controller\ZW.Controller.ZW.pas=C:\NoturnoProjects\src\sendWhats\Source\Controller\ZW.Controller.SendWhats.pas</Transaction>
+    <Transaction>2022/01/21 09:55:01.963,F:\Trunk\SpeedyDiversos\SendWhats\Source\View\View.ZW.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="1">
+    <File Path="Controller"/>
+    <File Path="Controller\ZW.Controller.ZW.pas"/>
+    <File Path="Model"/>
+    <File Path="Model\ZW.Model.pas"/>
+    <File Path="Utils"/>
+    <File Path="Utils\ZW.Utils.Emoction.pas"/>
+    <File Path="Utils\ZW.Utils.LibUtils.pas"/>
+    <File Path="View"/>
+    <File Path="View\View.InputPhone.pas"/>
+    <File Path="View\View.InputPhone.dfm"/>
+    <File Path="View\View.Main.pas"/>
+    <File Path="View\View.Main.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
