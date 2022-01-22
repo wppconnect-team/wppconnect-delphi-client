@@ -141,6 +141,10 @@ object MainView: TMainView
     object TabSheetLogs: TTabSheet
       Caption = 'Errors'
       ImageIndex = 1
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object PanelLogs: TPanel
         Left = 0
         Top = 0
@@ -220,12 +224,12 @@ object MainView: TMainView
     object MaskEditMyNumber: TMaskEdit
       Left = 8
       Top = 36
-      Width = 126
+      Width = 125
       Height = 21
       EditMask = '99 (99) 9 9999-9999;0;_'
       MaxLength = 19
       TabOrder = 0
-      Text = '5538998760341'
+      Text = '5599999999999'
     end
     object EditHostname: TEdit
       Left = 142
@@ -233,7 +237,7 @@ object MainView: TMainView
       Width = 149
       Height = 21
       TabOrder = 1
-      Text = 'wpp.speedysistemas.com.br'
+      Text = 'localhost'
     end
     object EditPort: TEdit
       Left = 297
@@ -251,7 +255,7 @@ object MainView: TMainView
       Height = 21
       PasswordChar = '*'
       TabOrder = 3
-      Text = 'gN3FivW}C4{M;!]:kPpryXm!Pf1o3o'
+      Text = 'THISISMYSECURETOKEN'
     end
     object ComboBoxProcessUnreadMessages: TComboBox
       Left = 8

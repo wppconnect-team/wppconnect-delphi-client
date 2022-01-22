@@ -491,13 +491,13 @@ begin
                 4:
                   begin
                     FZW.SendMessage(Client.Phone, 'Certo, momento que já lhe envio nossos contatos.');
-                    FZW.SendContactVCard(Client.Phone, '5538997289136@c.us', 'SPEEDY SISTEMAS', False);
+                    FZW.SendContactVCard(Client.Phone, '5599999999999@c.us', 'ZW for Wpp Connect', False);
                     FChatBot.CloseChat(Client);
                   end;
                 5:
                   begin
                     FZW.SendMessage(Client.Phone, 'Estou lhe enviando a localização de nossa empresa, momento...');
-                    FZW.SendLocation(Client.Phone, -16.705869452292156, -43.84391795924117, 'SPEEDY');
+                    FZW.SendLocation(Client.Phone, -16.705869452292156, -43.84391795924117, 'ZW for Wpp Connect');
                     FChatBot.CloseChat(Client);
                   end
               else
